@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestDistributeApp</string>
+    <string name="text">Simple application with integrated App Center</string>
+</resources>
